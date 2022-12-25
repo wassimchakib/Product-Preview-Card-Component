@@ -10,11 +10,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -31,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Link1](https://wassimchakib.github.io/Product-Preview-Card-Component/)
 
 ## My process
 
